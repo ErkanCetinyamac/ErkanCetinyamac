@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **Expert Systems**
+- 🌱 I’m currently learning **ComputerVision**
 
 - 👯 I’m looking to collaborate on **Data Analysis**
 
-- 🤝 I’m looking for help with **CV**
+- 🤝 I’m looking for help with **ComputerVision**
 
 - 💬 Ask me about **Data Science**
 
