@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Expert Systems**
 
-- 👯 I’m looking to collaborate on **CV**
+- 👯 I’m looking to collaborate on **Data Analysis**
 
-- 🤝 I’m looking for help with **Data Analysis**
+- 🤝 I’m looking for help with **CV**
 
 - 💬 Ask me about **Data Science**
 
