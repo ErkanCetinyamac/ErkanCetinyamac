@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/erkancetinyamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erkancetinyamac" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14511916" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14511916" height="30" width="40" /></a>
 <a href="https://kaggle.com/glorfindel94" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="glorfindel94" height="30" width="40" /></a>
-<a href="https://medium.com/@cetinyamac.erkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cetinyamac.erkan" height="30" width="40" /></a>
+<a href="https://erkancetinyamac.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@erkancetinyamac" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/erkancetinyamac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="erkancetinyamac" height="30" width="40" /></a>
 </p>
 
