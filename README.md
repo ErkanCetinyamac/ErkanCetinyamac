@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **cetinyamac.erkan@gmail.com**
 
-### Blogs posts
-https://erkancetinyamac.medium.com/knn-algoritmas%C4%B1-ve-knn-s%C4%B1n%C4%B1fland%C4%B1rma-modeli-kullan%C4%B1larak-kredi-onay-de%C4%9Ferlendirilmesi-da5b06c85dda
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
