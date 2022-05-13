@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erkan.</h1>
-<h3 align="center">I'm an electronics and communication engineer and currently I study business intelligence and data analytics master program at İzmir Bakircay University. I'm actively working on data science and AI related specialties such as predictive analytics, NLP and CV.</h3>
+<h3 align="center"></h3>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **ComputerVision**
-
-- 👯 I’m looking to collaborate on **Data Analysis**
-
-- 🤝 I’m looking for help with **ComputerVision**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📝 I regularly write articles on [https://erkancetinyamac.medium.com/](https://erkancetinyamac.medium.com/)
 
