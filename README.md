@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📝 I regularly write articles on [https://erkancetinyamac.medium.com/](https://erkancetinyamac.medium.com/)
+- 📝 I write articles on [https://erkancetinyamac.medium.com/](https://erkancetinyamac.medium.com/)
 
 - 💬 Ask me about **Data Science**
 
